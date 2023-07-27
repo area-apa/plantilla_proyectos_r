@@ -1,4 +1,4 @@
-# plantilla_proyectos_python
+# plantilla_proyectos_r
 
 La esctrutura de proyectos debería ser la siguuiente:
 (además en cada carpeta dejé un archivo txt q explica el contenido que debe llevar la carpeta)
