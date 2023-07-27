@@ -1,0 +1,1 @@
+Scripts para convertir la data cruda a datos para el modelo
