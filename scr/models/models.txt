@@ -1,0 +1,1 @@
+Scripts para entrenar el modelo y luego hacer predicciones
