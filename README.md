@@ -1,4 +1,4 @@
-# plantilla_proyectos_python
+# plantilla_proyectos_r
 
 La esctrutura de proyectos debería ser la siguuiente:
 (además en cada carpeta dejé un archivo txt q explica el contenido que debe llevar la carpeta)
@@ -21,21 +21,21 @@ La esctrutura de proyectos debería ser la siguuiente:
 ├── requirements.txt                      __lista de paquetes requeridos para reproducir el entorno, pip freeze > requirements.txt__  
 ├── src                                   __CODIGO FUENTE DEL PROYECTO__  
 │   ├── data                              __Scripts para descargar o generar datos__    
-│   │   ├── __init__.py   
-│   │   └── make_dataset.py    
+│   │   ├──  
+│   │   └──  
 │   ├── features                          __Scripts para convertir la data cruda a datos para el modelo__   
-│   │   ├── build_features.py   
-│   │   └── __init__.py   
-│   ├── __init__.py  
+│   │   ├──  
+│   │   └──   
+│   ├    
 │   ├── models                            __Scripts para entrenar el modelo y luego hacer predicciones__   
-│   │   ├── __init__.py   
-│   │   ├── predict_model.py   
-│   │   ├── train_model.py   
-│   │   └── validate_model.py  
+│   │   ├──  
+│   │   ├──   
+│   │   ├──
+│   │    
 │   │── visualization                     __Scripts para crear exploración y resultados orientados a la visualización__   
-│   │   ├── __init__.py   
-│   │   └── visualize.py  
+│   │   ├──              
+│   │   └──        
 │   └── inferencia                        __Scripts para inferencia, donde se usan los archivos contenidos en el resto de las carpetas__    
-│       ├── mainInferencia.py            
+│       ├──                        
 │       
-├── test_environment.py                 __aplica en caso de querer hacer test unitarios__
+├── test_environment.R                 __aplica en caso de querer hacer test unitarios_
